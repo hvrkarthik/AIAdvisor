@@ -47,13 +47,14 @@ The application follows a clean, modular architecture with clear separation of c
 ## 📸 Screenshots
 
 ### App Flow
-(assets/screenshot1.jpeg)
-(assets/screenshot2.jpeg)
-(assets/screenshot3.jpeg)
-(assets/screenshot4.jpeg)
-(assets/screenshot5.jpeg)
-(assets/screenshot6.jpeg)
-(assets/screenshot7.jpeg)
+![Screenshot 1](assets/screenshot1.jpeg)
+![Screenshot 2](assets/screenshot2.jpeg)
+![Screenshot 3](assets/screenshot3.jpeg)
+![Screenshot 4](assets/screenshot4.jpeg)
+![Screenshot 5](assets/screenshot5.jpeg)
+![Screenshot 6](assets/screenshot6.jpeg)
+![Screenshot 7](assets/screenshot7.jpeg)
+
 
 ### Data Flow
 
