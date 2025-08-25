@@ -2,6 +2,9 @@
 
 A React Native application that leverages artificial intelligence to provide personalized product recommendations based on natural language queries.
 
+## APK(can download and install on andriod devices):
+https://drive.google.com/file/d/1pF8wAfVdKeSbJaE231yNec_Slm6Wt0wl/view?usp=sharing
+
 ## 🚀 Features
 
 - **Natural Language Search**: Users can describe their needs in plain English
@@ -43,18 +46,6 @@ The application follows a clean, modular architecture with clear separation of c
 - **AI Service**: Handles communication with Google Gemini API and response parsing
 - **Product Catalog**: Static data store with product information
 - **UI Components**: Reusable components for product display and user interaction
-
-## 📸 Screenshots
-
-### App Flow
-![Screenshot 1](assets/screenshot1.jpeg)
-![Screenshot 2](assets/screenshot2.jpeg)
-![Screenshot 3](assets/screenshot3.jpeg)
-![Screenshot 4](assets/screenshot4.jpeg)
-![Screenshot 5](assets/screenshot5.jpeg)
-![Screenshot 6](assets/screenshot6.jpeg)
-![Screenshot 7](assets/screenshot7.jpeg)
-
 
 ### Data Flow
 
