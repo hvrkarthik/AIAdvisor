@@ -13,7 +13,9 @@ export default function RootLayout() {
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen name="+not-found" />
       </Stack>
-      <StatusBar style="auto" />
+       <StatusBar 
+        backgroundColor="#FFD580"
+      />
     </AppProvider>
   );
 }

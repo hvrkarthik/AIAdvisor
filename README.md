@@ -44,6 +44,17 @@ The application follows a clean, modular architecture with clear separation of c
 - **Product Catalog**: Static data store with product information
 - **UI Components**: Reusable components for product display and user interaction
 
+## 📸 Screenshots
+
+### App Flow
+!(assets/images/screenshot1.jpeg)
+!(assets/images/screenshot2.jpeg)
+!(assets/images/screenshot3.jpeg)
+!(assets/images/screenshot4.jpeg)
+!(assets/images/screenshot5.jpeg)
+!(assets/images/screenshot6.jpeg)
+!(assets/images/screenshot7.jpeg)
+
 ### Data Flow
 
 1. User enters natural language query in SearchInput component
